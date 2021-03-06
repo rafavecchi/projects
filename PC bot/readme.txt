@@ -5,3 +5,6 @@ reservation to be made. Certain days were very difficult to get a reservation.
 This bot uses the selenium library and a chrome driver to go through the 
 reservation process in their website in a loop, until an availability is 
 presented and it successfully makes the reservation for me.
+
+Make sure to install the selenium library and chomedriver.exe. The best way
+to open this file is in a jupiter notebook. Otherwise it can be opened as text.
